@@ -1,0 +1,6 @@
+{
+  "appId": "ab2365da-03f9-42c8-943d-ec2bbaa6e804",
+  "displayName": "api://ai-app",
+  "password": "aXo8Q~lVSVh3Ld5kDP52utSWwsvFj2S8m7rB9dgY",
+  "tenant": "7f1f443f-436d-4cdc-a6a0-33881fea1bfe"
+}
